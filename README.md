@@ -1,5 +1,7 @@
 # Drug-Synergy-Prediction-using-Graph-Neural-Networks
 
+[embed]https://github.com/paveethranswam/Drug-Synergy-Prediction-using-Graph-Neural-Networks/blob/main/ML%20Bioinformatics%20Project%20-%20Report%20(Final).pdf[/embed]
+
 Abstract: While computational methods are emerging progressively, our paper focuses on implementing deep
 learning techniques to compute a viable score for a combination of drug effects on cancer cells. Drug combination
 therapies are an ingrained concept in cancer treatment. Hence, identifying the novel synergistic combinations is
